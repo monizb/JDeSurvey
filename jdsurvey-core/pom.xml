@@ -88,7 +88,7 @@
 		
 		<atomikos.version>3.6.4</atomikos.version>
 		
-		<commons-validator.version>1.5.0</commons-validator.version>
+		<commons-validator.version>1.7</commons-validator.version>
 		
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>2.0</velocity-tools.version>          
@@ -101,7 +101,7 @@
         
         <quartz.version>2.3.2</quartz.version>
         <jexcelapi.version>2.6.12</jexcelapi.version>
-        <antisamy.version>1.6.7</antisamy.version>
+        <antisamy.version>1.6.8</antisamy.version>
  
 	</properties>
 		
@@ -188,7 +188,7 @@
 		<dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.28</version>
+            <version>8.0.31</version>
         </dependency>
 
 		<dependency>
