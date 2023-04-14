@@ -53,7 +53,7 @@
 		<springsource.oracle.jdbc.version>10.2.0.5</springsource.oracle.jdbc.version>
 
 
-		<spring.version>5.2.22.RELEASE</spring.version>
+		<spring.version>5.2.24.RELEASE</spring.version>
 		<spring-security.version>5.5.7</spring-security.version>
 		
 		<hibernate-validator.version>6.0.23.Final</hibernate-validator.version>
