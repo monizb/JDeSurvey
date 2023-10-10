@@ -101,7 +101,7 @@
         
         <quartz.version>2.3.2</quartz.version>
         <jexcelapi.version>2.6.12</jexcelapi.version>
-        <antisamy.version>1.6.8</antisamy.version>
+        <antisamy.version>1.7.4</antisamy.version>
  
 	</properties>
 		
