@@ -88,7 +88,7 @@
 		
 		<atomikos.version>3.6.4</atomikos.version>
 		
-		<commons-validator.version>1.7</commons-validator.version>
+		<commons-validator.version>1.10.0</commons-validator.version>
 		
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>2.0</velocity-tools.version>          
@@ -194,7 +194,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.1</version>
+			<version>3.18.0</version>
 		</dependency>
 
 		<dependency>
